@@ -2,6 +2,6 @@
 java desktop application
 
 Instructions :
-1. please extract the derbyDB zip file and jfreechart
-2. please open the project and add the library that you extracted befoe. notice that for derbyDB you only need jar.exe from lib folder and for jfreechart select all the files in the lib folder
-3. after tou complete step 1&2 you can run the application
+1. Please extract the derbyDB zip file and jfreechart zip file in the project folder.
+2. Please open the project and add the libraries you extracted on step 1. Notice that for derbyDB you only need jar.exe and for jfreechart select all the files in the lib folder.
+3. After tou complete step 1&2 you can run the application
